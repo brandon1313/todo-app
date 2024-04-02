@@ -4,6 +4,7 @@ built with vite and using react (ts) for running the app follow the next steps.
 
 > prerequisites:
 > node installed +v14
+> npm 
 
 
  1. Install modules (npm install)
